@@ -1,1 +1,1 @@
-this is FileB
+this is file has been changed 
